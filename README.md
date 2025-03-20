@@ -1,5 +1,5 @@
-Привет все сложно
-Очень сложно
+Привет 
+пока
 <!--
 **aleksejgris/aleksejgris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
